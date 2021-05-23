@@ -1,0 +1,9 @@
+execute if score exh su-config matches 1 run effect give @a health_boost 5 4 true
+execute if score exh su-config matches 2 run effect give @a health_boost 5 9 true
+execute if score exh su-config matches 3 run effect give @a health_boost 5 14 true
+execute if score exh su-config matches 4 run effect give @a health_boost 5 19 true
+execute if score exh su-config matches 5 run effect give @a health_boost 5 24 true
+execute if score exh su-config matches 6 run effect give @a health_boost 5 29 true
+execute if score exh su-config matches 7 run effect give @a health_boost 5 34 true
+execute if score exh su-config matches 8 run effect give @a health_boost 5 39 true
+execute if score exh su-config matches 9 run effect give @a health_boost 5 44 true

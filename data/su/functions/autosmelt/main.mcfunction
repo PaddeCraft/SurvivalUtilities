@@ -1,0 +1,4 @@
+execute if score ironore su-config matches 1 run data merge entity @e[sort=random,type=item,limit=1,nbt={Item:{id:"minecraft:iron_ore"}}] {Item:{id:"minecraft:iron_ingot",Count:1b}}
+execute if score goldore su-config matches 1 run data merge entity @e[sort=random,type=item,limit=1,nbt={Item:{id:"minecraft:gold_ore"}}] {Item:{id:"minecraft:gold_ingot",Count:1b}}
+execute if score netherite su-config matches 1 run data merge entity @e[sort=random,type=item,limit=1,nbt={Item:{id:"minecraft:ancient_debris"}}] {Item:{id:"minecraft:netherite_scrap",Count:1b}}
+execute if score copperore su-config matches 1 run data merge entity @e[sort=random,type=item,limit=1,nbt={Item:{id:"minecraft:copper_ore"}}] {Item:{id:"minecraft:copper_ingot",Count:1b}}

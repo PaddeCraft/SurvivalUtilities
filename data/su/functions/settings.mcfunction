@@ -1,0 +1,2 @@
+scoreboard players set @s su.config 0
+tellraw @s[tag=PaddeCraftDataPack.Admin] ["",{"text":"========== SETTINGS ==========\n\n \u0020 "},{"text":"[AutoSmelt]","color":"aqua","clickEvent":{"action":"run_command","value":"/function su:autosmelt/settings"}},{"text":"\n \u0020 "},{"text":"[SmallTweaks]","color":"green","clickEvent":{"action":"run_command","value":"/function su:smalltweaks/settings"}},{"text":"\n \u0020 "},{"text":"[RESET]","color":"red","clickEvent":{"action":"run_command","value":"/function su:reset"}},{"text":"\n\n============================="}]
