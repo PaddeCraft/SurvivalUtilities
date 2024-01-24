@@ -4,7 +4,7 @@
 
 Welcome to the SurvivalUtilities-Repository!
 Here is my Minecraft SurvivalUtilities datapack.
-Codet in 1.16.5.
+Coded in 1.16.5.
 
 ### Triggers
 
@@ -26,7 +26,7 @@ The downloads are in `Releases`.
 
 ### Questions and issues
 
-If you have ans issues, questions, bug reports
+If you have any issues, questions, bug reports
 or ideas, please go to the issues tab.
 
 ## Have fun!
